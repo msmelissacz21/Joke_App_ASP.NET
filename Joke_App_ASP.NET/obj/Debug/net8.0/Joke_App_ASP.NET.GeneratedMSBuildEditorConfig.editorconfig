@@ -1,11 +1,19 @@
 is_global = true
 build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
 build_property.TargetPlatformMinVersion = 
 build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Joke_App_ASP.NET
 build_property.RootNamespace = Joke_App_ASP.NET
@@ -28,6 +36,30 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/msmel/OneDrive/Desktop/Projects/.NET Jokes App/Joke_App_ASP.NET/Joke_App_ASP.NET/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/msmel/OneDrive/Desktop/Projects/.NET Jokes App/Joke_App_ASP.NET/Joke_App_ASP.NET/Views/Jokes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9rZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/msmel/OneDrive/Desktop/Projects/.NET Jokes App/Joke_App_ASP.NET/Joke_App_ASP.NET/Views/Jokes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9rZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/msmel/OneDrive/Desktop/Projects/.NET Jokes App/Joke_App_ASP.NET/Joke_App_ASP.NET/Views/Jokes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9rZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/msmel/OneDrive/Desktop/Projects/.NET Jokes App/Joke_App_ASP.NET/Joke_App_ASP.NET/Views/Jokes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9rZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/msmel/OneDrive/Desktop/Projects/.NET Jokes App/Joke_App_ASP.NET/Joke_App_ASP.NET/Views/Jokes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9rZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/msmel/OneDrive/Desktop/Projects/.NET Jokes App/Joke_App_ASP.NET/Joke_App_ASP.NET/Views/Jokes/ShowSearchForm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9rZXNcU2hvd1NlYXJjaEZvcm0uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/msmel/OneDrive/Desktop/Projects/.NET Jokes App/Joke_App_ASP.NET/Joke_App_ASP.NET/Views/Shared/Error.cshtml]
